@@ -1,0 +1,4 @@
+Just wanted to try out an implementation of word ladder in ruby
+
+sample usage:
+ruby spec/bfs.rb wove worm four-char-dictionary.txt
